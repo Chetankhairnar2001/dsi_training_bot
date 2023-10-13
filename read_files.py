@@ -9,7 +9,7 @@ from langchain.indexes import VectorstoreIndexCreator
 from langchain.indexes.vectorstore import VectorStoreIndexWrapper
 from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 
 
 # query = "how won the fifa world cup before 2020"
 query = "tell me how to Set Repo"
